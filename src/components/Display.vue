@@ -12,7 +12,7 @@
                   :dot-scale="1"
                   :logoMargin="3"
                   :margin="0"
-                  logoSrc="./img/vue.png"></vue-qr>
+                  logoSrc="http://localhost:8080/src/img/vue.png"></vue-qr>
         </div>
   </div>
 </template>
