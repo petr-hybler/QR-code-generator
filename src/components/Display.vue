@@ -12,7 +12,7 @@
                   :dot-scale="1"
                   :logoMargin="3"
                   :margin="0"
-                  logoSrc="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png"></vue-qr>
+                  logoSrc="./img/vue.png"></vue-qr>
         </div>
   </div>
 </template>
